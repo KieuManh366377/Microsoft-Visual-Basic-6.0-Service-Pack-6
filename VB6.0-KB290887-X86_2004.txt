@@ -1,0 +1,44 @@
+Service Pack 6 for Visual Basic 6.0: Run-Time Redistribution Pack (vbrun60sp6.exe)
+Important! Selecting a language below will dynamically change the complete page content to that language.
+
+Select Language:
+
+DownloadDirectX End-User Runtime Web Installer
+Close windowDirectX End-User Runtime Web Installer
+vbrun60sp6.exe is a self-extracting executable file that installs versions of the Microsoft Visual Basic run-time files required by all applications created with Visual Basic 6.0.
+Details
+Version:
+6
+
+File Name:
+VB6.0-KB290887-X86.exe
+
+Date Published:
+3/25/2004
+
+File Size:
+1.0 MB
+
+vbrun60sp6.exe is a self-extracting executable file that installs versions of the Microsoft Visual Basic run-time files required by all applications created with Visual Basic 6.0. The files include the fixes shipped with Service Pack 6 for Visual Basic 6.0.
+System Requirements
+Supported Operating System
+Windows 2000, Windows 2000 Advanced Server, Windows 2000 Server, Windows 2000 Service Pack 2, Windows 2000 Service Pack 3, Windows 2000 Service Pack 4, Windows 95, Windows 98, Windows 98 Second Edition, Windows ME, Windows NT, Windows Server 2003, Windows XP
+
+
+Install Instructions
+Before starting the download, create a download directory on your computer.
+
+
+Click the link to begin downloading. When prompted by the download software, choose the option Save this program to disk and click OK. Then select the directory you created on your computer.
+
+
+Run the file from the download directory. When prompted, select the same directory you created on your computer. You will be expanding the contents of the EXE into this directory.
+
+
+Related Resources
+Visual Basic Developer Center
+Visual Basic Community
+Visual Basic Training and Events
+Microsoft Developer Tools Roadmap 2004-2005
+==========================
+https://www.microsoft.com/en-us/download/details.aspx?id=24417
